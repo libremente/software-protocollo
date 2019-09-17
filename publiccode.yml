@@ -24,12 +24,15 @@ localisation:
   availableLanguages:
     - it
 it:
+  countryExtensionVersion: '0.2'
   piattaforme:
-    anpr: true
+    anpr: tru
     spid: true
   conforme:
     lineeGuidaDesign: false
     misureMinimeSicurezza: true
+  riuso:
+      pcm
 description:
   it:
     genericName: Software di protocollo
@@ -67,3 +70,4 @@ description:
       protocollazione elettronica.
     features:
       - Protocollazione
+    
