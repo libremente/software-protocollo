@@ -26,13 +26,13 @@ localisation:
 it:
   countryExtensionVersion: '0.2'
   piattaforme:
-    anpr: tru
+    anpr: true
     spid: true
   conforme:
     lineeGuidaDesign: false
     misureMinimeSicurezza: true
   riuso:
-      pcm
+    codiceIPA: pcm 
 description:
   it:
     genericName: Software di protocollo
