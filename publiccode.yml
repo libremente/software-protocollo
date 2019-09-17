@@ -1,0 +1,69 @@
+# This repository adheres to the publiccode.yml standard by including this 
+# metadata file that makes public software easily discoverable.
+# More info at https://github.com/italia/publiccode.yml
+
+publiccodeYmlVersion: '0.2'
+name: Protocollo informatico
+url: 'https://github.com/comunereuso/software-protocollo'
+releaseDate: '2019-09-17'
+developmentStatus: concept
+softwareType: standalone/backend
+platforms:
+  - linux
+categories:
+  - accounting
+  - business-intelligence
+maintenance:
+  type: none
+legal:
+  license: GPL-3.0-or-later
+  mainCopyrightOwner: Comune di Reuso
+  repoOwner: Comune di Reuso
+localisation:
+  localisationReady: false
+  availableLanguages:
+    - it
+it:
+  piattaforme:
+    anpr: true
+    spid: true
+  conforme:
+    lineeGuidaDesign: false
+    misureMinimeSicurezza: true
+description:
+  it:
+    genericName: Software di protocollo
+    shortDescription: Software per il protocollo informatico
+    longDescription: >
+      Questo software permette di eseguire le operazioni necessarie per la
+      protocollazione elettronica.
+
+
+      Questo software permette di eseguire le operazioni necessarie per la
+      protocollazione elettronica.
+
+
+      Questo software permette di eseguire le operazioni necessarie per la
+      protocollazione elettronica.
+
+
+      Questo software permette di eseguire le operazioni necessarie per la
+      protocollazione elettronica.
+
+
+      Questo software permette di eseguire le operazioni necessarie per la
+      protocollazione elettronica.
+
+
+      Questo software permette di eseguire le operazioni necessarie per la
+      protocollazione elettronica.
+
+
+      Questo software permette di eseguire le operazioni necessarie per la
+      protocollazione elettronica.
+
+
+      Questo software permette di eseguire le operazioni necessarie per la
+      protocollazione elettronica.
+    features:
+      - Protocollazione
